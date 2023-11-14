@@ -9,18 +9,12 @@ N
 src/week1/CustomException.java,f\c\fc621b664767f1f06a3fe7e1e57c3b9f24e649d1
 V
 &src/week1/CheckedExceptionExample.java,8\7\87e802047db3631162cd86b735257433b2316102
-I
-src/week1/nonexistent.txt,e\e\eeccfb0a8b4fb3ce39f1a0926eb9fde6ce53b998
 Å
 Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b\0\b08f1ab659fbdd998f45c0def99188f980cc899b
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-w
-G.idea/sonarlint/issuestore/e/e/eeccfb0a8b4fb3ce39f1a0926eb9fde6ce53b998,e\c\ec5335b74919d31a1d9753080effad0056bfa338
 Å
 Q.idea/sonarlint/securityhotspotstore/8/7/87e802047db3631162cd86b735257433b2316102,4\8\48327dffcbfe3ce317e12dec4bed3580d8d1d7d6
-Å
-Q.idea/sonarlint/securityhotspotstore/e/e/eeccfb0a8b4fb3ce39f1a0926eb9fde6ce53b998,8\2\82007588749ab132f4b033104148baf30ea8f0ae
 Å
 Q.idea/sonarlint/securityhotspotstore/e/5/e5f514477bee7a68bd3db84998ccaa94c625e92e,1\f\1f9b303168473c78596d27fe84ceecf83333bf56
 :
@@ -34,3 +28,15 @@ G
 Q.idea/sonarlint/securityhotspotstore/f/c/fc621b664767f1f06a3fe7e1e57c3b9f24e649d1,4\5\45402b45389d6796f168bdda6543ba4f4fc5c977
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Q
+!src/tests/CheckfilexistsTest.java,e\c\ecae7d3c9891aae757320b1cf00fd9bd52abf332
+X
+(src/week1/UncheckedExceptionExample.java,c\6\c6b93cf8206c8d9747b72ea40ec227fd7899c435
+k
+;src/week1/uncheckedexception/UncheckedExceptionExample.java,3\e\3e689baceda9220f1c2c40f0ba024f71b66d928b
+k
+;src/week1/uncheckedexception/ClassCastExceptionExample.java,8\6\862325482897ecaca705b22e62f97dc46fb1a1c6
+l
+<src/week1/uncheckedexception/ArithmeticExceptionExample.java,c\f\cf66992f1446035069a1f29c69f064caa4556b85
+m
+=src/week1/uncheckedexception/NullPointerExceptionExample.java,d\8\d8ad7ae0abf232ab842dd0129105523ed871a86f
