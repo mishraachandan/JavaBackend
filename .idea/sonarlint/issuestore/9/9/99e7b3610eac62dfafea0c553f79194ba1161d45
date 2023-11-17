@@ -1,0 +1,10 @@
+
+n
+java:S1104"RMake radius a static final constant or non-public and provide accessors if needed.(ÄÑ¹a8Ú®àÉ½1
+H
+java:S1444",Make this "public static radius" field final(ÄÑ¹a8Ú®àÉ½1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾øè²þÿÿÿÿ8ÅÛÞÉ½1
+L	java:S106"+Replace this use of System.out by a logger.(³úÇˆúÿÿÿÿ8ÞÛÞÉ½1
+G	java:S1066"+Replace this use of System.out by a logger.(¦²¼‚8ÞÛÞÉ½1
+G	java:S1068"+Replace this use of System.out by a logger.(Ú¢„ç8ÞÛÞÉ½1
+G	java:S106;"+Replace this use of System.out by a logger.(Ó”à¡8ÞÛÞÉ½1
