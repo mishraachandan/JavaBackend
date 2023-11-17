@@ -30,8 +30,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 Q
 !src/tests/CheckfilexistsTest.java,e\c\ecae7d3c9891aae757320b1cf00fd9bd52abf332
-X
-(src/week1/UncheckedExceptionExample.java,c\6\c6b93cf8206c8d9747b72ea40ec227fd7899c435
 k
 ;src/week1/uncheckedexception/UncheckedExceptionExample.java,3\e\3e689baceda9220f1c2c40f0ba024f71b66d928b
 k
@@ -40,3 +38,25 @@ l
 <src/week1/uncheckedexception/ArithmeticExceptionExample.java,c\f\cf66992f1446035069a1f29c69f064caa4556b85
 m
 =src/week1/uncheckedexception/NullPointerExceptionExample.java,d\8\d8ad7ae0abf232ab842dd0129105523ed871a86f
+O
+src/week1/tasks/Calculator.java,0\c\0cfe1b1bd56caa11fb742b471a20e5761174c784
+R
+"src/week1/tasks/CalculatorApp.java,6\c\6cda8aa8ab96b206f8355f663b7352340dc4fbd3
+R
+"src/week1/singleton/Singleton.java,f\e\fe7e9992d659b6fac1bde4cbebe2627c5a5d2ba7
+^
+.src/week1/singleton/implementation/Logger.java,0\a\0aa1acf68cf8984b904d34f8640e5a022e412535
+c
+3src/week1/singleton/implementation/UserManager.java,c\5\c58329c83df547dd8668fa909960abe4d2953710
+\
+,src/week1/singleton/implementation/Main.java,e\d\edab248931c5f07b4f84b02ea57c531cfdef685c
+f
+6src/week1/singleton/implementation/ProductService.java,0\d\0df5fc1a1d57d52f28f4da9c9e50d8ad977b449f
+j
+:src/week1/abstractImplementation/AbstractClassExample.java,9\9\99e7b3610eac62dfafea0c553f79194ba1161d45
+X
+(.github/workflows/github-action-demo.yml,a\1\a1a3574a0761de221e2f984732c6a5619d50d06c
+I
+src/week1/DummyClass.java,d\b\dbf7a75f633dc910c26c196c05416df2c029c1e2
+g
+7src/week1/interfaceimplementation/InterfaceExample.java,2\6\2631b7cc3342644e592f3d65cc4c8f63dc6af85d
